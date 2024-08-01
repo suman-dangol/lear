@@ -1,2 +1,1 @@
-This is our main repo, and we will use this to learn.
-I have created subfolder for everyone, whatever you learn, put it here, so that I can keep track of your progress.
+This is our main repository for learning, and I’ve organized subfolders for each team member: Prajwol, Nitesh, Sanjay, and Sonika. Each person should use their subfolder to document their learning. Inside your subfolder, create files or additional subfolders to cover different topics or areas of study, and use descriptive names for clarity. Regularly update your folder with new information and progress, committing and pushing changes to keep a record of your work
